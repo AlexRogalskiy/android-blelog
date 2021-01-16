@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="message_onboarding_explanation">
+        This application keeps track of bluetooth connection and disconnection events on the device.
+        \n
+        \nIf location access is granted it will also show where the event took place, which is handy if you are trying to find a lost device.
+    </string>
+
+    <string name="slide_android_title">Location permission</string>
+    <string name="slide_android_permissions">
+        In order to display a map showing where an event took place you need to grant location access.
+        \nOn Android 10+ (Q) devices, you also need to allow location access when the app is in the background.
+        \nIf you don\'t grant access the app will still record bluetooth events.
+    </string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Notification Settings -->
+    <string name="preference_category_notifications">Notify on connection change</string>
+
+    <string name="preference_title_notify_on_connection">Device connected</string>
+    <string name="preference_key_notify_on_connection" translatable="false">notify_on_connection</string>
+
+    <string name="preference_title_notify_on_disconnection">Device disconnected</string>
+    <string name="preference_key_notify_on_disconnection" translatable="false">notify_on_disconnection</string>
+
+    <string name="preference_title_notify_on_disconnection_request">Disconnection requested</string>
+    <string name="preference_key_notify_on_disconnection_request" translatable="false">notify_on_disconnection_request</string>
+
+    <string name="preference_title_notify_only_for_favourites">Notify only for favourites</string>
+    <string name="preference_key_notify_only_for_favourites" translatable="false">notify_only_for_favourites</string>
+
+    <!-- Permission Settings -->
+    <string name="preference_category_permissions">Manage permissions</string>
+
+    <string name="preference_title_manage_permissions">Manage permissions</string>
+    <string name="preference_key_manage_permissions" translatable="false">manage_permissions</string>
+
+    <!-- Data Settings -->
+    <string name="preference_category_data">Data</string>
+
+    <string name="preference_title_event_rows_to_display">Number of event rows</string>
+    <string name="preference_key_event_rows_to_display" translatable="false">event_rows_to_display</string>
+
+    <!-- App Info Settings -->
+    <string name="preference_category_app_info">Application Info</string>
+
+    <string name="preference_title_app_version">Version</string>
+    <string name="preference_key_app_version" translatable="false">application_version</string>
+    <string name="preference_event_rows_to_display_default_value" translatable="false">500</string>
+</resources>
